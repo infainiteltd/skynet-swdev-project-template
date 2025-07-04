@@ -2,7 +2,7 @@
 	"folders": [
 		{
 			// The project folder itself.
-			"name": "{{project_name}}",
+			"name": "skynet-swdev-project-template",
 			"path": "."
 		},
 		{
